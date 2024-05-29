@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=3c5277&height=240&section=header&text=goodchoi's&fontColor=ffffff&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=3c5277&height=240&section=header&text=goodchoi's&fontColor=ffffff&fontSize=81&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
@@ -19,7 +19,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"><img src="https://github-readme-stats.vercel.app/api?username=goodchoi&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" 
-      style=" height:200px;" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goodchoi&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" style="height:200px;" /> 
+      style=" height:200px;" /> <img src="https://camo.githubusercontent.com/49e371f0c3c12a045de0b114d0c39f17bdfb2dcaf9a2befaa20fa4208395dfdb/687474703a2f2f6d617a617373756d6e6964612e7774662f6170692f76322f67656e65726174655f62616467653f626f6a3d636f64656d6963" alt="Solved.ac 프로필" data-canonical-src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codemic" style=" height:200px;">
     </div> 
     </div>
     
