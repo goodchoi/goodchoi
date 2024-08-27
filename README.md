@@ -29,7 +29,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left; "><img src="https://github-readme-stats.vercel.app/api?username=goodchoi&show_icons=true&theme=tokyonight&hide_border=true" 
-      style="max-width:200px;" /> &nbsp; &nbsp;<img src="https://camo.githubusercontent.com/49e371f0c3c12a045de0b114d0c39f17bdfb2dcaf9a2befaa20fa4208395dfdb/687474703a2f2f6d617a617373756d6e6964612e7774662f6170692f76322f67656e65726174655f62616467653f626f6a3d636f64656d6963" alt="Solved.ac 프로필" data-canonical-src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codemic" width="355" height=180">
+      style="max-width:200px;" /> &nbsp; &nbsp;<img alt="Solved.ac 프로필" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codemic" width="355" height=180">
     </div> 
     </div>
     
